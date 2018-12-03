@@ -1,0 +1,117 @@
+@font-face {
+  font-family: lato-light;
+  src: url(../fonts/lato-light.woff);
+}
+@font-face {
+  font-family: lato-regular;
+  src: url(../fonts/lato-regular.woff);
+}
+@font-face {
+  font-family: lato-bold;
+  src: url(../fonts/lato-bold.woff);
+}
+
+
+*, body, div, p, span, a {
+  font-family: 'lato-regular', sans-serif;
+  font-size:1em;
+}
+.f-light {
+  font-family: 'lato-light', sans-serif;
+  font-weight:lighter;
+}
+.f-bold {
+  font-family: 'lato-bold', sans-serif;
+  font-weight:bold;
+}
+
+img {
+  /*
+  border: 1px solid black;
+  box-sizing: border-box;
+  */
+}
+body > .centered-block {
+  /* общая ширина */
+  width:75%;
+  text-align:center;
+  margin:auto;
+}
+.centered-block {
+  padding: 0.75em;
+}
+.centered-block * {
+  width:100%;
+}
+
+h1 {
+  font-size: 2em;
+  font-family: 'lato-bold', sans-serif;
+  padding: 1.3em;
+}
+h2 {
+  font-size: 1.3em;
+  font-family: 'lato-bold', sans-serif;
+  padding: 0.75em;
+}
+.header img.header {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.floated-container {
+  margin: auto;
+}
+.floated-container:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.floated-element {
+  float:left;
+}
+/* при наведении */
+.floated-element:hover {
+  background-color: #E0E0E0;
+}
+/* текст ссылок под картинками */
+.floated-element-text {
+  padding:0.25em;
+  /* выравнивание текста ссылок под картинками */
+  text-align: left;
+  color: #393939;
+}
+a .floated-element-text {
+  color: blue;
+}
+
+.floated-element * {
+  width:100%;
+}
+.quarter .floated-element {
+  width:24%;
+  padding:0.5%;
+}
+.one-fifth .floated-element {
+  width:19%;
+  padding:0.4%;
+}
+.one-sixth .floated-element {
+  width:15%;
+  padding:0.4%;
+}
+
+#footer {
+  padding-top:4em;
+  padding-bottom:2em;
+  text-align: center;
+}
+
+
+.italic {
+  font-style: italic;
+}
+
+.centered-text {
+  text-align: center;
+}
