@@ -141,3 +141,21 @@ h2 {
   margin-top: 0.8em !important;
   margin-bottom: 0.8em !important;
 }
+
+.rel-nav {
+  position: fixed;
+  top:50%;
+  padding:0.25em;
+}
+
+.rel-nav img {
+  width: 1.75em;
+}
+
+.rel-nav-left {
+  left:0;
+}
+
+.rel-nav-right {
+  right:0;
+}

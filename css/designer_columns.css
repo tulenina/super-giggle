@@ -1,0 +1,140 @@
+@font-face {
+  font-family: lato-light;
+  src: url(../fonts/lato-light.woff);
+}
+@font-face {
+  font-family: lato-regular;
+  src: url(../fonts/lato-regular.woff);
+}
+@font-face {
+  font-family: lato-bold;
+  src: url(../fonts/lato-bold.woff);
+}
+
+
+*, body, div, p, span, a {
+  font-family: 'lato-regular', sans-serif;
+  font-size:1em;
+}
+.f-light {
+  font-family: 'lato-light', sans-serif;
+  font-weight:lighter;
+}
+.f-bold {
+  font-family: 'lato-bold', sans-serif;
+  font-weight:bold;
+}
+
+a {
+  color: #6ea5e0; /* цвет обычной ссылки */ 
+  text-decoration: none; /*  подчеркивание у ссылок */
+}
+a:visited {
+  color: #800080; /* цвет посещённой ссылки */
+} 
+a:hover {
+  color: #6ea5e0;  
+  text-decoration: none; 
+}
+
+img {
+  /*
+  border: 1px solid black;
+  box-sizing: border-box;
+  */
+}
+body > .main-cols {
+  /* общая ширина */
+  width:95%;
+  text-align:center;
+  margin:auto;
+}
+
+
+.main-cols td {
+  /* border: 1px solid red;*/
+  padding:0;
+  margin:0;
+  width: 33.3%;
+  vertical-align: top;
+  text-align: left;
+}
+
+.main-cols .col-item {
+  padding:0.5em;
+}
+
+.col-item .col-item-hover {
+  position: relative;
+  width: 100%;
+}
+
+.col-item-hover .col-item-image {
+ display: block;
+ width: 100%;
+ height: auto;
+}
+
+.col-item-hover .col-item-overlay {
+ position: absolute;
+ top: 0;
+ left: 0;
+ width:100%;
+ height:100%;
+ /* фон оверлея */
+ background-color: rgba(255, 255, 255, 0.85);
+}
+
+.col-item-hover .col-item-descr-group {
+   opacity:0;
+}
+
+.col-item-hover .col-item-descr-group:hover
+{
+  opacity:1;
+  transition: opacity .2s ease-out;
+  -moz-transition: opacity .2s ease-out;
+  -webkit-transition: opacity .2s ease-out;
+  -o-transition: opacity .2s ease-out;
+}
+
+.col-item-hover .col-item-descr {
+  position: absolute;
+  top:0;
+  left: 0;
+  width:100%;
+  height:100%;
+}
+
+.main-cols .col-item .col-item-text {
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+  padding-left: 1.5em;
+  padding-right: 3em;
+  color:black;
+}
+
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.header img.header {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.header a img.header:hover {
+  background-color: #FFFAF0;
+}
+
+h1 {
+  font-size: 1.2em;
+  font-family: 'lato-bold', sans-serif;
+  padding-bottom:0.75em;
+  padding-top:1.2em;
+}
