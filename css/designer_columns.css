@@ -75,35 +75,23 @@ body > .main-cols {
  height: auto;
 }
 
-.col-item-hover .col-item-overlay {
- position: absolute;
- top: 0;
- left: 0;
- width:100%;
- height:100%;
- /* фон оверлея */
- background-color: rgba(255, 255, 255, 0.85);
-}
-
-.col-item-hover .col-item-descr-group {
-   opacity:0;
-}
-
-.col-item-hover .col-item-descr-group:hover
-{
-  opacity:1;
-  transition: opacity .2s ease-out;
-  -moz-transition: opacity .2s ease-out;
-  -webkit-transition: opacity .2s ease-out;
-  -o-transition: opacity .2s ease-out;
-}
-
 .col-item-hover .col-item-descr {
   position: absolute;
   top:0;
   left: 0;
   width:100%;
   height:100%;
+  background-color: rgba(255, 255, 255, 0.85);
+  opacity:0;
+}
+
+.col-item-hover .col-item-descr:hover
+{
+  opacity:1;
+  transition: opacity .2s ease-out;
+  -moz-transition: opacity .2s ease-out;
+  -webkit-transition: opacity .2s ease-out;
+  -o-transition: opacity .2s ease-out;
 }
 
 .main-cols .col-item .col-item-text {
