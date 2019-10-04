@@ -1,10 +1,10 @@
 @font-face {
   font-family: lato-light;
-  src: url(../fonts/comfortaa.woff);
+  src: url(../fonts/lato-light.woff);
 }
 @font-face {
   font-family: lato-regular;
-  src: url(../fonts/lato-regular.woff);
+  src: url(../fonts/comfortaa.woff);
 }
 @font-face {
   font-family: lato-bold;
@@ -12,7 +12,7 @@
 }
 
 body {
- background-color: #FFFFFF;
+ background-color: #E0FFFF;
 }
 
 *, body, div, p, span, a {
