@@ -1,6 +1,6 @@
 @font-face {
   font-family: lato-light;
-  src: url(../fonts/lato-light.woff);
+  src: url(../fonts/comfortaa.woff);
 }
 @font-face {
   font-family: lato-regular;
@@ -11,6 +11,9 @@
   src: url(../fonts/lato-bold.woff);
 }
 
+body {
+ background-color: #FFFFFF;
+}
 
 *, body, div, p, span, a {
   font-family: 'lato-regular', sans-serif;
