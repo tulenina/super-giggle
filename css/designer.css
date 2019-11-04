@@ -56,6 +56,19 @@ body > .centered-block {
   width:100%;
 }
 
+.centered-block-narrow {
+  /* общая ширина */
+  width:50%;
+  text-align:center;
+  margin:auto;
+}
+.centered-block-narrow {
+  padding: 0.75em;
+}
+.centered-block-narrow * {
+  width:100%;
+}
+
 h1 {
   font-size: 1.4em;
   font-family: 'lato-bold', sans-serif;
@@ -75,7 +88,7 @@ h2 {
 }
 
 .header a img.header:hover {
-  background-color: #FFFAF0;
+  /* background-color: #FFFAF0; */
 }
 
 .floated-container {
@@ -158,4 +171,36 @@ h2 {
 
 .rel-nav-right {
   right:0;
+}
+
+
+.pad-bottom-small {
+padding-bottom:2em;
+}
+.pad-bottom-medium {
+padding-bottom:3.5em;
+}
+.pad-bottom-big {
+padding-bottom:6.25em;
+}
+
+.two-images-first {
+  width:40%;
+  padding-right:3.5%;
+  vertical-align:top;
+}
+
+.two-images {
+  width:40%;
+  vertical-align:top;
+}
+
+.two-images-first-text {
+  float:left;
+}
+
+.two-images-text {
+  float:left;
+  text-align:left;
+  text-indent: 1em;
 }

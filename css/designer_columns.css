@@ -4,7 +4,7 @@
 }
 @font-face {
   font-family: lato-regular;
-  src: url(../fonts/comfortaa.woff);
+  src: url(../fonts/lato-regular.woff);
 }
 @font-face {
   font-family: lato-bold;
@@ -17,7 +17,9 @@ body {
 
 *, body, div, p, span, a {
   font-family: 'lato-regular', sans-serif;
-  font-size:1em;
+  font-size:1em; 
+  line-height: 1.5em;
+
 }
 .f-light {
   font-family: 'lato-light', sans-serif;
@@ -98,11 +100,12 @@ body > .main-cols {
 }
 
 .main-cols .col-item .col-item-text {
-  padding-top: 1.5em;
+  padding-top: 1em;
   padding-bottom: 1.5em;
   padding-left: 1.5em;
-  padding-right: 3em;
+  padding-right: 1.5em;
   color:black;
+  line-height: 1em;
 }
 
 
