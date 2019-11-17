@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1700.8 1292.4" style="enable-background:new 0 0 1700.8 1292.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:none;stroke:#8452AF;stroke-width:21;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill:#ADF2EE;}
+	.st3{fill:#CC6C15;}
+	.st4{fill:#E08532;}
+	.st5{fill:#D7FFFD;}
+	.st6{fill:#3A6D52;}
+	.st7{fill:#3D8762;}
+	.st8{fill:#8452AF;}
+	.st9{fill:#D38E44;}
+	.st10{font-family:'DINCondensed-Bold';}
+	.st11{font-size:130px;}
+	.st12{letter-spacing:-3;}
+</style>
+<title>lg</title>
+<g>
+	<defs>
+		<circle id="SVGID_1_" cx="850.4" cy="448.8" r="380.5"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<path class="st1" d="M891.2,273c0-27.8-22.5-50.3-50.2-50.3c-27.8,0-50.3,22.5-50.3,50.2c0,27.8,22.5,50.3,50.2,50.3
+			c0,0,0.1,0,0.1,0v50.1c0,0-217.3,88.5-218.3,157.8s216.8-9.8,216.8-9.8"/>
+		<rect x="722" y="412.7" class="st2" width="129.3" height="390.1"/>
+		<path class="st3" d="M566.7,851.5c0,0-3.9-196.9,0-281.4c2.4-52,17.1-96.9,32.7-104.5c28.4-13.6,121.2,83.7,121.2,83.7l43.8,302.1
+			L566.7,851.5z"/>
+		<polygon class="st4" points="852,851.5 764.5,851.5 638.9,851.5 639.8,658.2 599.5,465.6 764.5,397 788.1,397 852,744.4 		"/>
+		<polygon class="st3" points="722,412.7 852,744.4 792.7,422 		"/>
+		<path class="st5" d="M804.2,475.1l-80.1-59c-6.4-4.7-8.6-13.2-5.4-20.4l16-35.6l116.7,52.6l-25.5,56.7
+			c-3.3,7.3-11.8,10.5-19.1,7.2C805.9,476.2,805,475.7,804.2,475.1z"/>
+		<path class="st6" d="M761,586.6c-3,19.8-18.2,28.8-30.2,27s-24-14-21-33.8c4.3-28.6,32.1-40,32.1-40S765.2,558.5,761,586.6z"/>
+		<path class="st7" d="M730.8,613.6c-12-1.8-24-14-21-33.8c4.3-28.6,32.1-40,32.1-40L730.8,613.6z"/>
+		<path class="st6" d="M716.5,575.1c8.1,16.5,1.3,31.4-8.7,36.3s-25.5,1.9-33.7-14.6c-11.7-24,3.4-47.2,3.4-47.2
+			S705,551.5,716.5,575.1z"/>
+		<path class="st7" d="M707.9,611.5c-10,4.9-25.5,1.9-33.7-14.6c-11.7-24,3.4-47.2,3.4-47.2L707.9,611.5z"/>
+		<polygon class="st3" points="769.2,692.3 715.9,711.5 662.7,692.3 662.7,628 662.7,601.3 715.9,601.3 769.2,601.3 769.2,628 		"/>
+		<path class="st8" d="M662.7,618.3v-15.4c0-8,6.4-14.4,14.4-14.4c0,0,0,0,0,0h77.7c8,0,14.4,6.5,14.4,14.4c0,0,0,0,0,0v36.4
+			L662.7,618.3z"/>
+		<circle class="st8" cx="812.3" cy="457.2" r="8.5"/>
+		<circle class="st8" cx="841.9" cy="274.5" r="8.5"/>
+		<circle class="st9" cx="715.9" cy="607.8" r="8.5"/>
+		<line class="st1" x1="761.3" y1="177.9" x2="812.3" y2="230.6"/>
+		<line class="st1" x1="924.8" y1="177.9" x2="872.7" y2="231.6"/>
+		<text transform="matrix(1 0 0 1 862.34 505.75)" class="st3 st10 st11 st12">W</text>
+		<text transform="matrix(1 0 0 1 935.53 505.75)" class="st3 st10 st11">ASH</text>
+		<text transform="matrix(1 0 0 1 862.34 661.75)" class="st3 st10 st11">TIP</text>
+	</g>
+</g>
+</svg>
