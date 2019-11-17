@@ -17,8 +17,8 @@ body {
 
 *, body, div, p, span, a {
   font-family: 'lato-regular', sans-serif;
-  font-size:1em; 
-  line-height: 1.5em;
+  font-size:12pt; 
+  line-height: 18pt;
 
 }
 .f-light {
@@ -127,7 +127,7 @@ body > .main-cols {
 }
 
 h1 {
-  font-size: 1.2em;
+  font-size: 14.4pt;
   font-family: 'lato-bold', sans-serif;
   padding-bottom:0.75em;
   padding-top:1.2em;

@@ -14,7 +14,7 @@
 
 *, body, div, p, span, a {
   font-family: 'lato-regular', sans-serif;
-  font-size:1em;
+  font-size:12pt;
 }
 .f-light {
   font-family: 'lato-light', sans-serif;
@@ -85,12 +85,12 @@ body > .centered-block {
 
 
 h1 {
-  font-size: 1.4em;
+  font-size: 18pt;
   font-family: 'lato-bold', sans-serif;
   padding: 0.9em;
 }
 h2 {
-  font-size: 1.3em;
+  font-size: 15pt;
   font-family: 'lato-bold', sans-serif;
   padding: 0.75em;
 }
