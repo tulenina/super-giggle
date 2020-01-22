@@ -219,3 +219,31 @@ padding-bottom:6.25em;
   text-align:left;
   text-indent: 1em;
 }
+
+
+.three-images-first {
+  width:27%;
+  padding-right:2.5%;
+  vertical-align:top;
+}
+
+.three-images-second {
+  width:27%;
+  padding-right:2.5%;
+  vertical-align:top;
+}
+
+.three-images-last {
+  width:27%;
+  vertical-align:top;
+}
+
+.three-images-text {
+  float:left;
+}
+
+.three-images-last-text {
+  float:left;
+  text-align:left;
+  text-indent: 1em;
+}
